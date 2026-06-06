@@ -1,0 +1,10 @@
+Equipe - AgroLunar
+Computational Thinking with Python - FIAP - Global Solution 2026.1
+
+Integrantes:
+  Robert Josino - RM571622
+  Ryan Maick    - RM573051
+  Vitor Borin   - RM573194
+
+Repositorio GitHub:
+  https://github.com/Vitor-Borin/GS-Computicional-Thinking-Python
